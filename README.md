@@ -1,4 +1,4 @@
-# ninja_id
+# Ninja
 
 A new Flutter project.
 
